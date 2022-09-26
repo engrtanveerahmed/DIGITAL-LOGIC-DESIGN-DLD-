@@ -2,7 +2,7 @@
 
 ## Introduction
  
-Stop is time measuring devices, which measure time between two intervals for this a stop watch must include a start button and reset button in order to stop the at desired point and restart for again start from initial point. 
+Stop watch is time measuring devices, which measure time between two intervals for this a stop watch must include a start button and reset button in order to stop the at desired point and restart for again start from initial point. 
 
 ## Component list
 - **555 timer ic** 
