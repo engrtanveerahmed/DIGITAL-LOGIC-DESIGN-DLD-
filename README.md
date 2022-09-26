@@ -26,11 +26,11 @@ A key point is to maintain frequency this is controlled by adding resistor and c
 ![](https://github.com/engrtanveerahmed/Digital-Stop-Watch-/blob/main/project%20official.PNG?raw=true)
 
 ## Hardware Picture 
-![]()
+![](https://github.com/engrtanveerahmed/Digital-Stop-Watch-/blob/main/IMG20220221135623.jpg?raw=true)
 
 ## Applications
 
 - **It uses in cooking**
 -	**It uses in gaming** 
--	**In competitive exam student use it to make the exam plan **
+-	**In competitive exam student use it to make the exam plan**
 -	**Sport men use it to maintain their stamina** 
